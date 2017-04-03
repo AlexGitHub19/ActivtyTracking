@@ -1,0 +1,9 @@
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\bin\Debug\WinFormsActivityTracking.exe.config
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\bin\Debug\WinFormsActivityTracking.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\bin\Debug\WinFormsActivityTracking.pdb
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.Form1.resources
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.Properties.Resources.resources
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.csproj.GenerateResource.Cache
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\WinFormsActivityTracking\WinFormsActivityTracking\obj\Debug\WinFormsActivityTracking.pdb
